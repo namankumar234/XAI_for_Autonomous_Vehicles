@@ -42,7 +42,10 @@ Heatmaps: Highlight regions in the image that the model focused on.
 Metrics: Evaluate model performance using metrics like accuracy, precision, recall, and mAP.
 
 Sample Grad-CAM Visualization:
-![Grad-CAM Example](https://drive.google.com/uc?id=1jLZOSYfv4au_6q8YCI0iyiqhXW_EV8pt)
+![Grad-CAM Output](https://github.com/namankumar234/XAI_for_Autonomous_Vehicles/blob/main/images/outputs/gradcam_output.png)
+
+Sample Grad-CAM++ Visualization:
+![Grad-CAM++ Output](https://github.com/namankumar234/XAI_for_Autonomous_Vehicles/blob/main/images/outputs/gradcampp_output.png)
 
 📚 References
 
