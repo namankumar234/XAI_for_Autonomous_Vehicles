@@ -39,7 +39,7 @@ pip install -r requirements.txt
 Heatmaps: Highlight regions in the image that the model focused on.
 Metrics: Evaluate model performance using metrics like accuracy, precision, recall, and mAP.
 Sample Grad-CAM Visualization:
-![Grad-CAM Example]([https://your-image-hosting-link.com/image.png](https://drive.google.com/file/d/1jLZOSYfv4au_6q8YCI0iyiqhXW_EV8pt/view?usp=sharing))
+![Grad-CAM Example](https://drive.google.com/uc?id=1jLZOSYfv4au_6q8YCI0iyiqhXW_EV8pt)
 
 📚 References
 Selvaraju, R.R., et al. (2017). Grad-CAM: Visual Explanations from Deep Networks
