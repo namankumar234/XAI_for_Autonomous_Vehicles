@@ -36,15 +36,22 @@ pip install -r requirements.txt
 3. Run different .py files and .ipynb notebooks according to usage.
 
 📊 Results
+
 Heatmaps: Highlight regions in the image that the model focused on.
+
 Metrics: Evaluate model performance using metrics like accuracy, precision, recall, and mAP.
+
 Sample Grad-CAM Visualization:
 ![Grad-CAM Example](https://drive.google.com/uc?id=1jLZOSYfv4au_6q8YCI0iyiqhXW_EV8pt)
 
 📚 References
+
 Selvaraju, R.R., et al. (2017). Grad-CAM: Visual Explanations from Deep Networks
+
 Samek, W., et al. (2017). Explainable AI: Interpreting and Explaining Deep Learning Models
+
 🤝 Contributing
+
 Contributions are welcome! Please submit a pull request or open an issue for any improvements or bug fixes.
 
 
